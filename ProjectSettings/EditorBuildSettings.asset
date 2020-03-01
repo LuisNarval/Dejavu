@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Alternativa Castillo.unity
-    guid: b8503bb4769daec4bae41fa4a17a7a8c
+    path: Assets/Scenes/Main.unity
+    guid: 451270e8976f03645b7cb5e1c9b6ca6b
   m_configObjects: {}
