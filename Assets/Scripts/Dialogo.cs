@@ -29,7 +29,9 @@ public class Dialogo : MonoBehaviour
 
     private void LateUpdate(){
 
-        if (Input.GetKeyDown(KeyCode.Return)){
+        if (Input.GetKeyDown(KeyCode.Return)|| 
+            OVRInput.Get(OVRInput.RawButton.LIndexTrigger)||
+            OVRInput.Get(OVRInput.RawButton.RIndexTrigger) ){
             if (CajaAbierta){
                 if (EscrituraTerminada){
                     Siguiente();
