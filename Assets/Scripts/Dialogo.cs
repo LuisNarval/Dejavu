@@ -11,7 +11,8 @@ public class Dialogo : MonoBehaviour
 
     [Header("REFERENCIAS A ESCENA")]
     public Text txt_Texto;
-    
+    public Animator anim_Luis;
+
     public CanvasGroup CG_CajaTexto;
     public CanvasGroup CG_Texto;
     public CanvasGroup CG_Siguiente;
@@ -40,6 +41,7 @@ public class Dialogo : MonoBehaviour
                     txt_Texto.text = Lineas[LineaActual];
                     CG_Siguiente.alpha = 1.0f;
                     EscrituraTerminada = true;
+                    anim_Luis.SetTrigger("Sonreir");
                 }
             }
             else{
@@ -105,6 +107,7 @@ public class Dialogo : MonoBehaviour
         caracteres = Lineas[LineaActual].ToCharArray();
 
         EscrituraTerminada = false;
+        anim_Luis.SetTrigger("Hablar");
 
         int caracterActual = 0;
         string cadena;
@@ -125,7 +128,9 @@ public class Dialogo : MonoBehaviour
             yield return new WaitForSeconds(tiempoEntreCaracteres);
         }
 
+
         EscrituraTerminada = true;
+        anim_Luis.SetTrigger("Enojado");
 
         while (CG_Siguiente.alpha<1.0f){
             CG_Siguiente.alpha += Time.deltaTime * 2.0f;
