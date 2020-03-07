@@ -130,7 +130,7 @@ public class Dialogo : MonoBehaviour
 
 
         EscrituraTerminada = true;
-        anim_Luis.SetTrigger("Enojado");
+        anim_Luis.SetTrigger("Sonreir");
 
         while (CG_Siguiente.alpha<1.0f){
             CG_Siguiente.alpha += Time.deltaTime * 2.0f;
