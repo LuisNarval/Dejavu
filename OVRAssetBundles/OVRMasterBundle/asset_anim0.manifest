@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1369015179
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2298ba841587d0df7897793af50d7a28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9ff7947e86ac18259f8d8c6c35c7861
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animaciones/Props/Props_ColocarCofre.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/O_Sound.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/E_Sound.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Ashamed.anim
+- Assets/Animaciones/UI/Siguiente_Idle.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Blink.anim
+- Assets/Animaciones/Props/Props_MostrarLlave.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Sad.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Wink_Right.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Smile.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Wink_Left.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/A_Sound.anim
+- Assets/Akishaqs/Characters/Liam/Art/Animations/FacialAnimations/Angry.anim
+Dependencies: []

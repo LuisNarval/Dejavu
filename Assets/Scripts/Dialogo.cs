@@ -22,31 +22,41 @@ public class Dialogo : MonoBehaviour
     public char[] caracteres;
     public bool CajaAbierta = false;
     public bool EscrituraTerminada = false;
+    public bool DialogoActivo = false;
 
     // Start is called before the first frame update
     void Start(){
         inicializar();
     }
 
-    private void LateUpdate(){
+    public void IniciarPlatica(){
+        StartCoroutine(corrutina_Aparecer());
+        DialogoActivo = true;
+    }
 
-        if (Input.GetKeyDown(KeyCode.Return)|| 
-            OVRInput.Get(OVRInput.RawButton.LIndexTrigger)||
-            OVRInput.Get(OVRInput.RawButton.RIndexTrigger) ){
-            if (CajaAbierta){
-                if (EscrituraTerminada){
-                    Siguiente();
+    private void LateUpdate(){
+        
+        if (DialogoActivo){
+
+            if (Input.GetKeyDown(KeyCode.Return) ||
+            OVRInput.Get(OVRInput.RawButton.LIndexTrigger) ||
+            OVRInput.Get(OVRInput.RawButton.RIndexTrigger)){
+                if (CajaAbierta) {
+                    if (EscrituraTerminada){
+                        Siguiente();
+                    }
+                    else{
+                        StopAllCoroutines();
+                        txt_Texto.text = Lineas[LineaActual];
+                        CG_Siguiente.alpha = 1.0f;
+                        EscrituraTerminada = true;
+                        anim_Luis.SetTrigger("Sonreir");
+                    }
                 }else{
-                    StopAllCoroutines();
-                    txt_Texto.text = Lineas[LineaActual];
-                    CG_Siguiente.alpha = 1.0f;
-                    EscrituraTerminada = true;
-                    anim_Luis.SetTrigger("Sonreir");
+                    StartCoroutine(corrutina_Aparecer());
                 }
             }
-            else{
-                StartCoroutine(corrutina_Aparecer());
-            }
+
         }
 
     }

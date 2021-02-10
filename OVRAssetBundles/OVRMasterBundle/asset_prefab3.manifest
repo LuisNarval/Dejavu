@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2041499598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aabee32cf4c1b5922dfa3d85d3144e0b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc77c02dfe1496769a4948062a15474
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Door_Corner_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Castle_Base_Small_Windows_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Roof_Small_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Sign_Attachment_03.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Base_Small_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_Patch_01.prefab
+- Assets/PolygonCity/Prefabs/Vehicles/SM_Veh_Car_Sedan_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Roof_Aircon_03.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Rock_02.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Tree_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_PondEdge_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_ParkingLines_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Sidewalk_Panel_02.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Small_Base_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_FireEscape_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Lillypad_Large_03.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_Base_02.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeRound_Base_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Door_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Platform_Small_Legs_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Large_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Cliff_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_SidewalkPoles_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Base_Large_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Roof_Small_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Poster_Frame_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_SatDish_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Base_Large_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_02.prefab
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat1

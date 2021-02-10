@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4256065953
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9ce381085828fcdfcf5aecd06cdc76e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Texturas/noche2.jpg
+Dependencies: []

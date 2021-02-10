@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 910556342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aa30a8472913a0cd13b5725d3f0556c0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Textures/PolygonCity_Road_01.png
+- Assets/Scenes/Main/Lightmap-201_comp_dir.png
+- Assets/Scenes/Main/Lightmap-256_comp_dir.png
+- Assets/Scenes/Main/Lightmap-196_comp_dir.png
+- Assets/Scenes/Main/Lightmap-176_comp_dir.png
+- Assets/Scenes/Main/Lightmap-33_comp_dir.png
+- Assets/Scenes/Main/Lightmap-207_comp_dir.png
+- Assets/Scenes/Main/Lightmap-64_comp_dir.png
+- Assets/Scenes/Main/Lightmap-252_comp_dir.png
+- Assets/Scenes/Main/Lightmap-189_comp_dir.png
+- Assets/Scenes/Main/Lightmap-41_comp_dir.png
+- Assets/Scenes/Main/Lightmap-123_comp_dir.png
+- Assets/Scenes/Main/Lightmap-69_comp_dir.png
+- Assets/Scenes/Main/Lightmap-187_comp_dir.png
+- Assets/Scenes/Main/Lightmap-216_comp_dir.png
+- Assets/Scenes/Main/Lightmap-175_comp_dir.png
+- Assets/Scenes/Main/Lightmap-255_comp_dir.png
+- Assets/Scenes/Main/Lightmap-56_comp_dir.png
+- Assets/Scenes/Main/Lightmap-174_comp_dir.png
+- Assets/Scenes/Main/Lightmap-72_comp_dir.png
+- Assets/Scenes/Main/Lightmap-190_comp_dir.png
+- Assets/Scenes/Main/Lightmap-178_comp_dir.png
+- Assets/Scenes/Main/Lightmap-144_comp_dir.png
+- Assets/Scenes/Main/Lightmap-150_comp_dir.png
+- Assets/Scenes/Main/Lightmap-10_comp_dir.png
+- Assets/Scenes/Main/Lightmap-206_comp_dir.png
+- Assets/Scenes/Main/Lightmap-6_comp_dir.png
+- Assets/Sprites/Oculus_Control.png
+- Assets/Scenes/Main/Lightmap-213_comp_dir.png
+- Assets/Scenes/Main/Lightmap-152_comp_dir.png
+Dependencies: []

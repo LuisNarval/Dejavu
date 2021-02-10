@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3313102614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 757114adc408cf33322a5e9513640f12
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-81_comp_dir.png
+- Assets/Scenes/Main/Lightmap-51_comp_dir.png
+- Assets/Scenes/Main/Lightmap-20_comp_dir.png
+- Assets/Scenes/Main/Lightmap-80_comp_dir.png
+- Assets/Scenes/Main/Lightmap-132_comp_dir.png
+- Assets/Scenes/Main/Lightmap-89_comp_dir.png
+- Assets/Scenes/Main/Lightmap-113_comp_dir.png
+- Assets/Scenes/Main/Lightmap-208_comp_dir.png
+- Assets/Scenes/Main/Lightmap-61_comp_dir.png
+- Assets/Scenes/Main/Lightmap-164_comp_dir.png
+- Assets/Scenes/Main/Lightmap-130_comp_dir.png
+- Assets/Scenes/Main/Lightmap-212_comp_dir.png
+- Assets/Scenes/Main/Lightmap-2_comp_dir.png
+- Assets/Scenes/Main/Lightmap-233_comp_dir.png
+- Assets/Scenes/Main/Lightmap-91_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_01_C.png
+- Assets/Scenes/Main/Lightmap-5_comp_dir.png
+- Assets/Scenes/Main/Lightmap-16_comp_dir.png
+- Assets/Scenes/Main/Lightmap-88_comp_dir.png
+- Assets/Scenes/Main/Lightmap-127_comp_dir.png
+- Assets/Scenes/Main/Lightmap-198_comp_dir.png
+- Assets/Scenes/Main/Lightmap-104_comp_dir.png
+- Assets/_GUN/bGUN01h_glow.png
+- Assets/Texturas/Portada.png
+- Assets/Scenes/Main/Lightmap-239_comp_dir.png
+- Assets/Scenes/Main/Lightmap-222_comp_dir.png
+- Assets/Scenes/Main/Lightmap-78_comp_dir.png
+- Assets/Scenes/Main/Lightmap-38_comp_dir.png
+- Assets/Scenes/Main/Lightmap-14_comp_dir.png
+- Assets/PolygonSamurai/Textures/PolygonSamurai_Tex_01.png
+Dependencies: []

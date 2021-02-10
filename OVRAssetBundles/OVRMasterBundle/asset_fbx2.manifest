@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1367951334
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4bb6a87b36227decd6721a3f0cdb367
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef49f4d49e6e1ea799658f723c29f9be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Bld_OfficeOctagon_Base_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bridge_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_TrashBag_03.fbx
+- Assets/Akishaqs/Characters/Liam/Art/Models/Liam.fbx
+- Assets/PolygonCity/Models/SM_Prop_SatDish_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tile_Grass_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Corner_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Door_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Ocean_Tile_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tree_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Base_Large_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Base_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_ShopInterior_Chair_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_YellowLines_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_Corner_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Base_Medium_Windows_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Rock_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Lillypad_Large_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tree_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bamboo_Group_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Arm_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Vents_End_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Poster_Frame_01.fbx
+- Assets/PolygonCity/Models/SM_Veh_Car_Medium_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Trashbin_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Stone_Lantern_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_SteppingStone_03.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondEdge_04.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Corner_01.fbx
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat1

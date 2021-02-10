@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 2684784154
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bbf9e1dc60fadcdb7753745da2eafa67
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9704b28e902e86d85ac8541796c9e339
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Mat_02.mat
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Mat_03.mat
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Mat_01.mat
+- Assets/Polygon Arsenal/Models/Materials/No Name.mat
+- Assets/Materiales/Skybox_Noche_2.mat
+- Assets/Materiales/Carta/Portada.mat
+- Assets/Materiales/Carta/Carta.mat
+- Assets/PolygonCity/Materials/FX_Materials/Water_Mat.mat
+- Assets/Polygon Arsenal/Materials/Solids/PolySolidGlow.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_03_A.mat
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Petals_Mat.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/One Eyed Bat-Black.mat
+- Assets/PolygonCity/Materials/PolygonCity_Glass_Veh_Mat.mat
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Mat_04.mat
+- Assets/Materiales/IK.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_01_A.mat
+- Assets/Polygon Arsenal/Materials/Solids/PolyLitSurface.mat
+- Assets/PolygonCity/Materials/FX_Materials/Skyline_Mat.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_04_B.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/One Eyed Bat-Purple.mat
+- Assets/Materiales/Carta/Trasera.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_02_A.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/Vfx-Aura-Green.mat
+- Assets/Materiales/Carta/ContraPortada.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_03_B.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_Road_01.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_01_C.mat
+- Assets/TreasureChestMaker/Example/Materials/Chests/Chest01_BasicBaseMaterial.mat
+- Assets/PolygonCity/Materials/PolygonCity_Mat_04_A.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/VFX-Book-Green.mat
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png8
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png9
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_jpg0

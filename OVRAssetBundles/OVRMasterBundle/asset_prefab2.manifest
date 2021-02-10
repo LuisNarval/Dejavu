@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 2452917730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc21dc31f641f0c0925b18d1c40f97e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62fa56b3254b7e4f0244348c8185ae38
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Manhole_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Straight_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Castle_Base_Top_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Corner_03.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Dip_Corner_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Base_Medium_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Trashbin_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Base_Large_DoorWay_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Roof_03.prefab
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Prefabs/One Eyed Bat-Yellow.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Door_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_Lights_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Platform_Small_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_SteppingStone_03.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Roof_Corner_02.prefab
+- Assets/PolygonSamurai/Prefabs/Props/SM_Prop_Paper_Lantern_02.prefab
+- Assets/PolygonSamurai/Prefabs/FX/FX_Petals_Small_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Small_Floor_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Roof_Corner_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_PowerBox_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Platform_Medium_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Tulips_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Stairs_Planter_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Tree_04.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Large_Roof_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Roof_Medium_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Stairs_Planter_01.prefab
+- Assets/PolygonSamurai/Prefabs/Props/SM_Prop_Zen_Bamboo_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_PondEdge_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bush_02.prefab
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat1

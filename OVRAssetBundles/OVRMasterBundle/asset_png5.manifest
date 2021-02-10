@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 99616684
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22a01fedf186e53ef49c44e3b279454a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-151_comp_dir.png
+- Assets/Scenes/Main/Lightmap-242_comp_dir.png
+- Assets/Scenes/Main/Lightmap-156_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_04_B.png
+- Assets/Scenes/Main/Lightmap-204_comp_dir.png
+- Assets/Scenes/Main/Lightmap-169_comp_dir.png
+- Assets/Scenes/Main/Lightmap-52_comp_dir.png
+- Assets/Scenes/Main/Lightmap-237_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_Normal.png
+- Assets/Scenes/Main/Lightmap-219_comp_dir.png
+- Assets/Scenes/Main/Lightmap-103_comp_dir.png
+- Assets/Scenes/Main/Lightmap-112_comp_dir.png
+- Assets/Scenes/Main/Lightmap-44_comp_dir.png
+- Assets/Scenes/Main/Lightmap-236_comp_dir.png
+- Assets/Scenes/Main/Lightmap-73_comp_dir.png
+- Assets/Scenes/Main/Lightmap-146_comp_dir.png
+- Assets/Scenes/Main/Lightmap-147_comp_dir.png
+- Assets/Scenes/Main/Lightmap-97_comp_dir.png
+- Assets/Scenes/Main/Lightmap-154_comp_dir.png
+- Assets/Scenes/Main/Lightmap-85_comp_dir.png
+- Assets/Scenes/Main/Lightmap-108_comp_dir.png
+- Assets/Scenes/Main/Lightmap-248_comp_dir.png
+- Assets/Scenes/Main/Lightmap-166_comp_dir.png
+- Assets/Scenes/Main/Lightmap-247_comp_dir.png
+- Assets/Scenes/Main/Lightmap-31_comp_dir.png
+- Assets/Scenes/Main/Lightmap-95_comp_dir.png
+- Assets/Scenes/Main/Lightmap-37_comp_dir.png
+- Assets/Scenes/Main/Lightmap-155_comp_dir.png
+- Assets/Scenes/Main/Lightmap-202_comp_dir.png
+- Assets/Scenes/Main/Lightmap-100_comp_dir.png
+Dependencies: []

@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 2241113042
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dfdfffdcc751d491d5d69505559675f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9ffdd3e7bde509f7776212165ecac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Prop_PowerBox_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_SteppingStone_04.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Statue_Lion_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_Corner_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_Planter_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Platform_Small_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Medium_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Platform_Small_01.fbx
+- Assets/PolygonCity/Models/SM_Env_GrassPath_T_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tulips_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Vents_Exhaust_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Fence_End_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Base_Top_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Tree_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_GroundMound_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_YellowLines_02.fbx
+- Assets/Mixamo/Liam@Ascending Stairs.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeSquare_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bush_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sidewalk_Panel_04.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stack_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Straight_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Base_Large_Windows_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_ParkingMeter_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeRound_Roof_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Base_Large_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Panel_02.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Paper_Lantern_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Arrow_01.fbx
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@FlyForward.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@Idle.FBX
+- Assets/Polygon Arsenal/Models/PolySphereSmall.FBX
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0

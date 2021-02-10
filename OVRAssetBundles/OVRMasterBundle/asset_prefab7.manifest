@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1798394645
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a070fc65a012bd29109dbfa77e7c4d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cc77c02dfe1496769a4948062a15474
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_Crossing_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_SubwayEntrance_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LargeSign_Popcorn_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Sidewalk_Panel_01.prefab
+- Assets/PolygonSamurai/Prefabs/Props/SM_Prop_Bamboo_Pole_02.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_FireEscape_03.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Large_Base_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Vents_Exhaust_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_RicePlant_01.prefab
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0

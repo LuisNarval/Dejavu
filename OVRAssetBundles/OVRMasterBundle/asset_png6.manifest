@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3418739482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f66457c4e3954ad2ff2abd384436f964
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-74_comp_dir.png
+- Assets/Scenes/Main/Lightmap-60_comp_dir.png
+- Assets/Scenes/Main/Lightmap-36_comp_dir.png
+- Assets/Scenes/Main/Lightmap-27_comp_dir.png
+- Assets/Scenes/Main/Lightmap-171_comp_dir.png
+- Assets/Scenes/Main/Lightmap-90_comp_dir.png
+- Assets/Scenes/Main/Lightmap-12_comp_dir.png
+- Assets/Scenes/Main/Lightmap-99_comp_dir.png
+- Assets/Scenes/Main/Lightmap-26_comp_dir.png
+- Assets/Scenes/Main/Lightmap-47_comp_dir.png
+- Assets/Scenes/Main/Lightmap-93_comp_dir.png
+- Assets/Scenes/Main/Lightmap-240_comp_dir.png
+- Assets/Scenes/Main/Lightmap-24_comp_dir.png
+- Assets/Scenes/Main/Lightmap-184_comp_dir.png
+- Assets/Scenes/Main/Lightmap-101_comp_dir.png
+- Assets/Scenes/Main/Lightmap-107_comp_dir.png
+- Assets/Scenes/Main/Lightmap-4_comp_dir.png
+- Assets/Oculus/SampleFramework/Core/DebugUI/Textures/slider_slider.png
+- Assets/Scenes/Main/Lightmap-182_comp_dir.png
+- Assets/Scenes/Main/Lightmap-106_comp_dir.png
+- Assets/Scenes/Main/Lightmap-67_comp_dir.png
+- Assets/Scenes/Main/Lightmap-117_comp_dir.png
+- Assets/Scenes/Main/Lightmap-57_comp_dir.png
+- Assets/Scenes/Main/Lightmap-238_comp_dir.png
+- Assets/Scenes/Main/Lightmap-28_comp_dir.png
+- Assets/Texturas/Trasera.png
+- Assets/Scenes/Main/Lightmap-29_comp_dir.png
+- Assets/Scenes/Main/Lightmap-9_comp_dir.png
+- Assets/Scenes/Main/Lightmap-143_comp_dir.png
+- Assets/Scenes/Main/Lightmap-58_comp_dir.png
+Dependencies: []

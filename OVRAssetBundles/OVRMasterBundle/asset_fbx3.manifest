@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2445022852
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75965feb62b8fa9c05363c7ee265c3f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f881add57992e661af442a7356112ea5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sign_Chinese_Noodles_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tree_03.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Dip_Corner_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bush_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Small_Floor_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Rock_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeRound_02.fbx
+- Assets/PolygonCity/Models/SM_Veh_Car_Sedan_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Door_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Panel_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Room_Long_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Lillypad_Small_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Block_Stairs_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Fence_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondEdge_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sign_Attachment_03.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Addon_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Paper_Lantern_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_CrossLights_01.fbx
+- Assets/Mixamo/Liam@Walking.fbx
+- Assets/PolygonCity/Models/SM_Veh_Car_Small_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Grate_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_ParkingLines_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_StoneBrazier_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Manhole_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Billboard_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tulips_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Gutter_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Bamboo_Pole_02.fbx
+Dependencies: []

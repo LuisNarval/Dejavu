@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 2862181561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93180d7360213ddb8dd16ed6fb2fdb70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3cddc776afdbd8b841284d199ed523
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Corner_02.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Fence_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Merger_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_Arm_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bamboo_Group_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_TrashBag_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Stack_01.prefab
+- Assets/PolygonSamurai/Prefabs/Props/SM_Prop_Statue_Lion_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_CrossLights_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Aircon_01.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Temple_Roof_Addon_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Corner_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_ParkingMeter_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Sidewalk_Panel_04.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOld_Large_02.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_GrassPath_Corner_01.prefab
+- Assets/PolygonSamurai/Prefabs/Props/SM_Prop_Stone_Lantern_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Castle_Roof_Top_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Dip_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_GroundMound_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Tree_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Roof_Corner_03.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Gutter_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Corner_02.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_OfficeOctagon_Floor_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Skip_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_SteppingStone_04.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_PondEdge_04.prefab
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Prefabs/One Eyed Bat-Purple.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bamboo_Group_03.prefab
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0

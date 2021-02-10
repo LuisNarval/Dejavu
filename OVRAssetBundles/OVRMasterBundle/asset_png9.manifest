@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4092617318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f51a43ce16fc1ec08db7b18abc128fb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-62_comp_dir.png
+- Assets/Scenes/Main/Lightmap-49_comp_dir.png
+- Assets/Scenes/Main/Lightmap-138_comp_dir.png
+- Assets/Scenes/Main/Lightmap-105_comp_dir.png
+- Assets/Scenes/Main/Lightmap-254_comp_dir.png
+- Assets/Scenes/Main/Lightmap-170_comp_dir.png
+- Assets/Scenes/Main/Lightmap-226_comp_dir.png
+- Assets/Scenes/Main/Lightmap-153_comp_dir.png
+- Assets/Scenes/Main/Lightmap-223_comp_dir.png
+- Assets/Scenes/Main/Lightmap-115_comp_dir.png
+- Assets/PolygonCity/Textures/Emissive_01.png
+- Assets/Scenes/Main/Lightmap-23_comp_dir.png
+- Assets/Scenes/Main/Lightmap-191_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Road_Normal.png
+- Assets/Scenes/Main/Lightmap-221_comp_dir.png
+- Assets/Scenes/Main/Lightmap-135_comp_dir.png
+- Assets/Scenes/Main/Lightmap-17_comp_dir.png
+- Assets/Scenes/Main/Lightmap-111_comp_dir.png
+Dependencies: []

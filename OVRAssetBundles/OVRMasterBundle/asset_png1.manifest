@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3901081201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1bd481acc6365867b46d1b6d8dbbc9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-251_comp_dir.png
+- Assets/TreasureChestMaker/TCM/ChestTextures/BorderMetal.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_03_B.png
+- Assets/Scenes/Main/Lightmap-246_comp_dir.png
+- Assets/Scenes/Main/Lightmap-7_comp_dir.png
+- Assets/Scenes/Main/Lightmap-124_comp_dir.png
+- Assets/Scenes/Main/Lightmap-173_comp_dir.png
+- Assets/Scenes/Main/Lightmap-30_comp_dir.png
+- Assets/Scenes/Main/Lightmap-197_comp_dir.png
+- Assets/Scenes/Main/Lightmap-32_comp_dir.png
+- Assets/Texturas/Carta.png
+- Assets/Scenes/Main/Lightmap-180_comp_dir.png
+- Assets/Scenes/Main/Lightmap-149_comp_dir.png
+- Assets/Scenes/Main/Lightmap-161_comp_dir.png
+- Assets/Scenes/Main/Lightmap-131_comp_dir.png
+- Assets/Scenes/Main/Lightmap-92_comp_dir.png
+- Assets/Scenes/Main/Lightmap-13_comp_dir.png
+- Assets/Scenes/Main/Lightmap-163_comp_dir.png
+- Assets/Scenes/Main/Lightmap-11_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_02_A.png
+- Assets/Scenes/Main/Lightmap-258_comp_dir.png
+- Assets/Scenes/Main/Lightmap-50_comp_dir.png
+- Assets/Scenes/Main/Lightmap-53_comp_dir.png
+- Assets/Scenes/Main/Lightmap-133_comp_dir.png
+- Assets/Scenes/Main/Lightmap-82_comp_dir.png
+- Assets/Scenes/Main/Lightmap-125_comp_dir.png
+- Assets/Scenes/Main/Lightmap-140_comp_dir.png
+- Assets/Scenes/Main/Lightmap-172_comp_dir.png
+- Assets/Scenes/Main/Lightmap-98_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_01_A.png
+Dependencies: []

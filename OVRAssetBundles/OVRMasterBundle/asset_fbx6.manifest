@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 3078535227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6008bc3cb448b8d55414ed199dae12ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f881add57992e661af442a7356112ea5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Base_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_FireEscape_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Tree_03.fbx
+- Assets/Mixamo/Liam@Sitting Idle.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Tower_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondEdge_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Plant_03.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Crossing_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Lillypad_Large_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_LargeSign_Popcorn_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Base_Small_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeSquare_Base_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Flowers_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Hydrant_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Billboard_Sign_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Lights_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Door_Corner_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_CrossButton_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Cliff_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Fence_Post_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sign_Street_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Manhole_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Flower_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Large_Roof_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_FireEscape_03.fbx
+Dependencies: []

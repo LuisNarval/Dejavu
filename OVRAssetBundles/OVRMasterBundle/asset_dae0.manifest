@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1786474628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 795e5959c9de2100d2de43bd9cd78ed6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 03a33866f54b82435d65562ea2ea7a72
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+Assets:
+- Assets/_GUN/bGUN01h.dae
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat1

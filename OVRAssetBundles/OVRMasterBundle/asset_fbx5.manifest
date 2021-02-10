@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 488464876
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37a1d8533576e37552c38d86ee62c5f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f36c9c8b64978d0f0375ccd6cab767d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Prop_SidewalkPoles_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stack_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Large_Floor_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tree_04.fbx
+- Assets/PolygonSamurai/Models/SM_Env_RicePlant_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Trashbin_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Door_Corner_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Small_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_ParkBench_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Shop_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeSquare_Roof_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Power_Cables_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Zen_Bamboo_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bamboo_Group_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_PlanterWindow_02.fbx
+- Assets/PolygonCity/Models/SM_Env_GrassPath_Straight_01.fbx
+- Assets/PolygonCity/Models/SM_Env_SubwayEntrance_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_LargeSign_Soda_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_ShopInterior_Table_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOctagon_Roof_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Tile_Dirt_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Corner_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Archway_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Small_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Tip_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Small_Base_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_TrashBag_01.fbx
+Dependencies: []

@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3595727829
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be3122ad6321a51a6efe9997e3dfc5f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f36c9c8b64978d0f0375ccd6cab767d7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Dip_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Fence_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Top_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Base_Medium_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Small_Roof_01.fbx
+- Assets/TreasureChestMaker/TCM/Models/Chest01_Basic.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Corner_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Room_Long_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bush_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Small_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Corner_02.fbx
+- Assets/PolygonCity/Models/SM_Env_WaterEdge_Rock_01.fbx
+- Assets/PolygonCity/Models/SM_Env_GrassPath_Corner_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Power_Cables_03.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Addon_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Platform_Medium_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondGround_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Skip_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Lights_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Roof_Corner_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Poster_03.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Large_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_GroundMound_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Temple_Roof_Large_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_Roof_Access_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Large_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sidewalk_Panel_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Aircon_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeSquare_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_Sidewalk_Panel_01.fbx
+Dependencies: []

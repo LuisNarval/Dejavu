@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3918652669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c4f77cb419172ea5e59a7e4aefe5195
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animaciones/UI/Siguiente.controller
+- Assets/Animaciones/Props/Props.controller
+- Assets/Akishaqs/Characters/Liam/Art/Animations/Controller/LiamController.controller
+- Assets/Dark Creatures Pack/One Eyed Wizard/Controllers/One Eyed Bat Controller.controller
+- Assets/Dark Creatures Pack/One Eyed Wizard/Controllers/One Eyed Wizard Controller.controller
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_anim0

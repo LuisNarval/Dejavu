@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 432928418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e49916dd1e30b80745cf9ccfb203e1b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e2a4023de6a1fc666f796886ad35fc5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e933e81d3c20c74ea6fdc708a67e3a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5178bc8574ce2bf4388e787a2e2af326, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Lillypad_Small_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Plant_03.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Apartment_Roof_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Castle_Base_Medium_Windows_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Sidewalk_Grate_02.prefab
+- Assets/PolygonSamurai/Prefabs/Buildings/SM_Bld_Castle_Roof_Addon_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Rock_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Fence_Post_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Poster_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_Base_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Flowers_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_PondGround_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Trashbin_01.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_Bare_01.prefab
+- Assets/PolygonCity/Prefabs/Buildings/SM_Bld_Shop_03.prefab
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Prefabs/One Eyed Bat-Black.prefab
+- Assets/PolygonCity/Prefabs/Environments/SM_Env_Road_YellowLines_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Tulips_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bush_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Billboard_Sign_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_Box_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bridge_02.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Vents_End_01.prefab
+- Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_LightPole_CrossButton_01.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Plant_02.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Bridge_03.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Power_Cables_01.prefab
+- Assets/PolygonCity/Prefabs/Props/SM_Prop_Poster_03.prefab
+- Assets/PolygonSamurai/Prefabs/Environments/SM_Env_Rock_03.prefab
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx3
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx4
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx6
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_fbx7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_mat1

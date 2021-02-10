@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3356312262
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a01b24b2e775aed8ff31d904ef44e113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-38_comp_light.exr
+- Assets/Scenes/Main/Lightmap-41_comp_light.exr
+- Assets/Scenes/Main/Lightmap-213_comp_light.exr
+- Assets/Scenes/Main/Lightmap-225_comp_light.exr
+- Assets/Scenes/Main/Lightmap-203_comp_light.exr
+- Assets/Scenes/Main/Lightmap-82_comp_light.exr
+- Assets/Scenes/Main/Lightmap-80_comp_light.exr
+- Assets/Scenes/Main/Lightmap-49_comp_light.exr
+- Assets/Scenes/Main/Lightmap-258_comp_light.exr
+- Assets/Scenes/Main/Lightmap-170_comp_light.exr
+- Assets/Scenes/Main/Lightmap-190_comp_light.exr
+- Assets/Scenes/Main/Lightmap-17_comp_light.exr
+- Assets/Scenes/Main/Lightmap-127_comp_light.exr
+- Assets/Scenes/Main/Lightmap-226_comp_light.exr
+- Assets/Scenes/Main/Lightmap-168_comp_light.exr
+- Assets/Scenes/Main/Lightmap-10_comp_light.exr
+- Assets/Scenes/Main/Lightmap-39_comp_light.exr
+- Assets/Scenes/Main/Lightmap-25_comp_light.exr
+- Assets/Scenes/Main/Lightmap-86_comp_light.exr
+- Assets/Scenes/Main/Lightmap-212_comp_light.exr
+- Assets/Scenes/Main/Lightmap-166_comp_light.exr
+- Assets/Scenes/Main/Lightmap-204_comp_light.exr
+- Assets/Scenes/Main/Lightmap-55_comp_light.exr
+- Assets/Scenes/Main/Lightmap-120_comp_light.exr
+- Assets/Scenes/Main/Lightmap-255_comp_light.exr
+- Assets/Scenes/Main/Lightmap-229_comp_light.exr
+- Assets/Scenes/Main/Lightmap-13_comp_light.exr
+- Assets/Scenes/Main/Lightmap-104_comp_light.exr
+- Assets/Scenes/Main/Lightmap-161_comp_light.exr
+- Assets/Scenes/Main/Lightmap-115_comp_light.exr
+Dependencies: []

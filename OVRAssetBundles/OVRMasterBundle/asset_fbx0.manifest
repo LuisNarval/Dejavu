@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 3325494398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0886422626cec7cb6087c396dde0d88b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9ffdd3e7bde509f7776212165ecac9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Models/SM_Prop_Poster_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Base_Small_Windows_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_FireEscape_01.fbx
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@MeleeAttack.FBX
+- Assets/PolygonSamurai/Models/SM_Env_RicePlant_02.fbx
+- Assets/PolygonCity/Models/SM_Prop_ParkingMeter_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Large_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_01.fbx
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@Die.FBX
+- Assets/PolygonSamurai/Models/SM_Env_Flowers_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondEdge_03.fbx
+- Assets/PolygonCity/Models/SM_Env_Skyline_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Platform_Stairs_01.fbx
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@ThrowProjectile.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@TakeDamage.FBX
+- Assets/PolygonCity/Models/SM_Env_Sidewalk_Merger_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Bare_01.fbx
+- Assets/PolygonSamurai/Models/SM_Prop_Flag_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeRound_Base_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Addon_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Patch_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Room_Long_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_Roof_Aircon_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_Corner_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_Billboard_Pole_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Bridge_03.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Base_Large_DoorWay_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Small_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Plant_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Door_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_LargeSign_Burger_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_PondGround_02.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOctagon_Floor_01.fbx
+- Assets/PolygonCity/Models/SM_Prop_LightPole_Box_01.fbx
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@TakeDamage.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/FBX/One Eyed Wizard.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@ThrowProjectile.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@SpellCast.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@Idle.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@Attack.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@Summon.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@TakeDamage.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/FBX/One Eyed Bat.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@Summon.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@FlyForward.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@MeleeAttack.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/FBX/One Eyed Wizard.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@SpellCast.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@Die.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@Die.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@Idle.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@Die.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Bat/One Eyed Bat@FlyForward.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@TakeDamage.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/FBX/One Eyed Bat.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@Idle.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@Attack.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Animations/Wizard/One Eyed Wizard@Defend.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Bat/One Eyed Bat@FlyForward.FBX
+- Assets/Dark Creatures Pack/One Eyed Wizard/Legacy/Animations/Wizard/One Eyed Wizard@Defend.FBX
+Dependencies: []

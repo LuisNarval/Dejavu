@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 954250482
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0096e0070bfb6a189f5d31bff928c15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-118_comp_dir.png
+- Assets/Scenes/Main/Lightmap-227_comp_dir.png
+- Assets/Texturas/ContraPortada.png
+- Assets/Scenes/Main/Lightmap-162_comp_dir.png
+- Assets/Scenes/Main/Lightmap-215_comp_dir.png
+- Assets/Scenes/Main/Lightmap-235_comp_dir.png
+- Assets/Scenes/Main/Lightmap-188_comp_dir.png
+- Assets/Scenes/Main/Lightmap-45_comp_dir.png
+- Assets/Scenes/Main/Lightmap-214_comp_dir.png
+- Assets/Akishaqs/Characters/Liam/Art/Textures/Liam_Tex.png
+- Assets/Scenes/Main/Lightmap-186_comp_dir.png
+- Assets/Scenes/Main/Lightmap-179_comp_dir.png
+- Assets/Scenes/Main/Lightmap-185_comp_dir.png
+- Assets/Scenes/Main/Lightmap-3_comp_dir.png
+- Assets/Scenes/Main/Lightmap-220_comp_dir.png
+- Assets/Scenes/Main/Lightmap-234_comp_dir.png
+- Assets/Sprites/Oculus_Gatillo.png
+- Assets/Scenes/Main/Lightmap-35_comp_dir.png
+- Assets/Scenes/Main/Lightmap-54_comp_dir.png
+- Assets/Scenes/Main/Lightmap-211_comp_dir.png
+- Assets/Scenes/Main/Lightmap-232_comp_dir.png
+- Assets/Scenes/Main/Lightmap-86_comp_dir.png
+- Assets/Scenes/Main/Lightmap-218_comp_dir.png
+- Assets/Scenes/Main/Lightmap-141_comp_dir.png
+- Assets/Scenes/Main/Lightmap-250_comp_dir.png
+- Assets/Scenes/Main/Lightmap-194_comp_dir.png
+- Assets/Scenes/Main/Lightmap-168_comp_dir.png
+- Assets/Scenes/Main/Lightmap-177_comp_dir.png
+- Assets/Scenes/Main/Lightmap-148_comp_dir.png
+- Assets/Scenes/Main/Lightmap-102_comp_dir.png
+Dependencies: []

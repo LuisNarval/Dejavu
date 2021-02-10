@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3444755481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e93c51c295d6eee5f5fb10613452916f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3f6df5cbc4a2990c44c2787bc9553a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-245_comp_dir.png
+- Assets/Scenes/Main/Lightmap-8_comp_dir.png
+- Assets/Scenes/Main/Lightmap-83_comp_dir.png
+- Assets/PolygonSamurai/Textures/PolygonSamurai_Tex_04.png
+- Assets/Scenes/Main/Lightmap-158_comp_dir.png
+- Assets/Scenes/Main/Lightmap-126_comp_dir.png
+- Assets/Scenes/Main/Lightmap-181_comp_dir.png
+- Assets/Scenes/Main/Lightmap-145_comp_dir.png
+- Assets/Scenes/Main/Lightmap-244_comp_dir.png
+- Assets/Scenes/Main/Lightmap-209_comp_dir.png
+- Assets/Scenes/Main/Lightmap-231_comp_dir.png
+- Assets/Scenes/Main/Lightmap-19_comp_dir.png
+- Assets/Scenes/Main/Lightmap-210_comp_dir.png
+- Assets/Scenes/Main/Lightmap-142_comp_dir.png
+- Assets/Scenes/Main/Lightmap-39_comp_dir.png
+- Assets/Scenes/Main/Lightmap-243_comp_dir.png
+- Assets/PolygonSamurai/Textures/CastilloEmision.png
+- Assets/Scenes/Main/Lightmap-205_comp_dir.png
+- Assets/Scenes/Main/Lightmap-128_comp_dir.png
+- Assets/Scenes/Main/Lightmap-70_comp_dir.png
+- Assets/Sprites/Dialogo.png
+- Assets/Scenes/Main/Lightmap-136_comp_dir.png
+- Assets/Scenes/Main/Lightmap-167_comp_dir.png
+- Assets/Scenes/Main/Lightmap-183_comp_dir.png
+- Assets/Scenes/Main/Lightmap-75_comp_dir.png
+- Assets/Scenes/Main/Lightmap-119_comp_dir.png
+- Assets/Scenes/Main/Lightmap-0_comp_dir.png
+- Assets/Scenes/Main/Lightmap-200_comp_dir.png
+- Assets/Scenes/Main/Lightmap-199_comp_dir.png
+- Assets/Scenes/Main/Lightmap-79_comp_dir.png
+Dependencies: []

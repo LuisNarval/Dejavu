@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2381001498
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 884975bec1b9c9bdaf80bea1bd94b67d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonCity/Textures/PolygonCity_Texture_Skyline.tga
+- Assets/PolygonCity/Textures/PolygonCity_Texture_Metallic.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/One Eyed Bat-Purple.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/VFX-Book.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/Vfx-Aura.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/One Eyed Bat-Black.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/One Eyed Bat-Yellow.tga
+- Assets/Dark Creatures Pack/One Eyed Wizard/Textures/One Eyed Wizard-Black.tga
+Dependencies: []

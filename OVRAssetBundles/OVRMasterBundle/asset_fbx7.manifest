@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3326341385
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2408c204cbb56ed4b9e338a932f26246
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc58c56b3ac91dfb9e775ce4912d68d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/PolygonSamurai/Models/SM_Env_Rock_Large_04.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Rock_03.fbx
+- Assets/PolygonCity/Models/SM_Bld_Apartment_Stairs_Planter_01.fbx
+- Assets/PolygonCity/Models/SM_Bld_OfficeOld_Large_Base_01.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Base_Large_03.fbx
+- Assets/PolygonCity/Models/SM_Prop_PicnicTable_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Tree_02.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Platform_Small_Legs_01.fbx
+- Assets/Treasure Chest/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx
+- Assets/PolygonSamurai/Models/SM_Bld_Castle_Roof_Medium_01.fbx
+- Assets/PolygonSamurai/Models/SM_Env_SteppingStone_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Lines_02.fbx
+- Assets/PolygonCity/Models/SM_Env_Road_Arrow_02.fbx
+- Assets/PolygonSamurai/Models/SM_Env_Fuji_01.fbx
+- Assets/PolygonCity/Models/SM_Env_Grass_01.fbx
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1799654140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc126b2230681b3e81a4d658b9ee36a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/TreasureChestMaker/Example/Materials/Chests/Chest01_BasicBorderMaterial.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/One Eyed Bat-Yellow.mat
+- Assets/PolygonSamurai/Materials/PolygonSamurai_Water_Mat.mat
+- Assets/Akishaqs/Characters/Liam/Art/Materials/Liam_Mat.mat
+- Assets/Dark Creatures Pack/One Eyed Wizard/Materials/One Eyed Wizard-Black.mat
+- Assets/_GUN/Materials/bGUN01h.mat
+- Assets/PolygonCity/Materials/Billboard_Mat.mat
+- Assets/PolygonCity/Materials/PolygonCity_Glass_Mat.mat
+Dependencies:
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png5
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png7
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png8
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_png9
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- C:/Users/Jehuty/Documents/Programacion/ProyectosPropios/Dejavu/OVRAssetBundles/OVRMasterBundle/asset_psd0

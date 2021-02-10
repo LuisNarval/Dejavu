@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 911058593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 764036efbb98f184b3cb1163cc4bcb2e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/Main/Lightmap-116_comp_dir.png
+- Assets/Scenes/Main/Lightmap-15_comp_dir.png
+- Assets/Scenes/Main/Lightmap-46_comp_dir.png
+- Assets/Scenes/Main/Lightmap-129_comp_dir.png
+- Assets/Scenes/Main/Lightmap-94_comp_dir.png
+- Assets/Scenes/Main/Lightmap-253_comp_dir.png
+- Assets/Scenes/Main/Lightmap-66_comp_dir.png
+- Assets/Scenes/Main/Lightmap-241_comp_dir.png
+- Assets/Scenes/Main/Lightmap-68_comp_dir.png
+- Assets/Scenes/Main/Lightmap-159_comp_dir.png
+- Assets/Scenes/Main/Lightmap-229_comp_dir.png
+- Assets/TreasureChestMaker/TCM/ChestTextures/ChestWood.png
+- Assets/Scenes/Main/Lightmap-18_comp_dir.png
+- Assets/Scenes/Main/Lightmap-121_comp_dir.png
+- Assets/Scenes/Main/Lightmap-157_comp_dir.png
+- Assets/Scenes/Main/Lightmap-109_comp_dir.png
+- Assets/Scenes/Main/Lightmap-77_comp_dir.png
+- Assets/Scenes/Main/Lightmap-110_comp_dir.png
+- Assets/Scenes/Main/Lightmap-134_comp_dir.png
+- Assets/PolygonCity/Textures/PolygonCity_Texture_04_A.png
+- Assets/Scenes/Main/Lightmap-40_comp_dir.png
+- Assets/Scenes/Main/Lightmap-249_comp_dir.png
+- Assets/Scenes/Main/Lightmap-203_comp_dir.png
+- Assets/Scenes/Main/Lightmap-228_comp_dir.png
+- Assets/Scenes/Main/Lightmap-224_comp_dir.png
+- Assets/PolygonCity/Textures/BillboardAds.png
+- Assets/PolygonSamurai/Textures/Albedo_PolygonSamurai_Tex_02.png
+- Assets/Scenes/Main/Lightmap-193_comp_dir.png
+- Assets/Scenes/Main/Lightmap-217_comp_dir.png
+- Assets/Scenes/Main/Lightmap-84_comp_dir.png
+Dependencies: []
